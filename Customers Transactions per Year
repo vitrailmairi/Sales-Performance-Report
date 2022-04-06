@@ -1,0 +1,4 @@
+SELECT year(order_date) AS years, count(DISTINCT customer) AS number_of_customer
+FROM dqlab_sales_store
+WHERE order_status = 'Order Finished'
+GROUP by years
