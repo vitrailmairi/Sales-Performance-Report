@@ -1,0 +1,5 @@
+SELECT year(order_date) AS years, product_sub_category, product_category, sum(sales) AS sales, sum(discount_value) AS promotion_value, round((sum(discount_value)/sum(sales))*100,2) AS burn_rate_percentage
+FROM dqlab_sales_store
+WHERE order_status = 'Order Finished' and year(order_date) = '2012'
+GROUP BY years, product_sub_category, product_category
+ORDER BY sales DESC
