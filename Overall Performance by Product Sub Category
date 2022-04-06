@@ -1,0 +1,5 @@
+SELECT year(order_date) AS years, product_sub_category, sum(sales) AS sales
+FROM dqlab_sales_store
+WHERE order_status = 'Order Finished' and year(order_date) in ('2011', '2012')
+GROUP BY years, product_sub_category
+ORDER BY years, sales DESC
