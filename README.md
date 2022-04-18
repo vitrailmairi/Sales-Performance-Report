@@ -14,3 +14,4 @@ Dataset yang sudah diberikan dan akan digunakan pada project ini berisi data seb
 8.	Discount Value
 9.	Product Category
 10.	Product Sub-Category
+
