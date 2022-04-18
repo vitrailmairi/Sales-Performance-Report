@@ -15,3 +15,6 @@ Dataset yang sudah diberikan dan akan digunakan pada project ini berisi data seb
 9.	Product Category
 10.	Product Sub-Category
 
+Overall Performance by Year
+![output_performace_by_years](https://user-images.githubusercontent.com/59629470/163820767-95358f25-c098-4f1a-9d0e-069bc923756a.png)
+
