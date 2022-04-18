@@ -51,6 +51,4 @@ Analysis of customers every year
 
 Every year the number of customers who make transactions tends to be stagnant or the same, even decreasing in 2011.
 
-
-[certificate-DQLABPRJC4PETHGW.pdf](https://github.com/vitrailmairi/Sales-Performance-Report/files/8506591/certificate-DQLABPRJC4PETHGW.pdf)
-
+![certificate-DQLABPRJC4PETHGW](https://user-images.githubusercontent.com/59629470/163832454-e746b977-b7f3-4fe2-a527-bddcd99771d2.jpg)
